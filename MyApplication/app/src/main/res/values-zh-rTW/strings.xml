@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">智能翻譯官</string>
+    <string name="mode_ja_to_zh">模式：日語 ➔ 繁體中文</string>
+    <string name="mode_zh_to_ja">模式：繁體中文 ➔ 日語</string>
+    <string name="connecting_to_engine">正在連接引擎...</string>
+    <string name="user_stopped">用戶已停止</string>
+    <string name="language_japanese">日語</string>
+    <string name="language_chinese_tw">繁體中文 (台灣)</string>
+    <string name="listening">正在聆聽...</string>
+    <string name="engine_error">引擎發生錯誤。</string>
+    <string name="app_title">智能翻譯官</string>
+    <string name="content_description_mic">麥克風</string>
+    <string name="content_description_speaker">揚聲器</string>
+    <string name="stop_session">停止工作</string>
+    <string name="start_interpreting">開始翻譯</string>
+    <string name="content_description_swap">切換語言</string>
+    <string name="language_chinese">繁體中文</string>
+    <string name="status_system_speaking">系統發言中</string>
+    <string name="status_engine_active">引擎運作中</string>
+    <string name="status_standby">待命</string>
+</resources>

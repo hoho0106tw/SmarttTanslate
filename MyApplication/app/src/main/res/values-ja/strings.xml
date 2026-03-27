@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">スマート翻訳</string>
+    <string name="mode_ja_to_zh">モード: 日 ➔ 中 (台)</string>
+    <string name="mode_zh_to_ja">モード: 中 (台) ➔ 日</string>
+    <string name="connecting_to_engine">エンジンに接続中...</string>
+    <string name="user_stopped">ユーザーにより停止</string>
+    <string name="language_japanese">日本語</string>
+    <string name="language_chinese_tw">繁体字中国語 (台湾)</string>
+    <string name="listening">聞き取り中...</string>
+    <string name="engine_error">エンジンエラーが発生しました。</string>
+    <string name="app_title">スマート翻訳</string>
+    <string name="content_description_mic">マイク</string>
+    <string name="content_description_speaker">スピーカー</string>
+    <string name="stop_session">セッションを停止</string>
+    <string name="start_interpreting">通訳を開始</string>
+    <string name="content_description_swap">切り替え</string>
+    <string name="language_chinese">繁体字中国語</string>
+    <string name="status_system_speaking">システムが発声中</string>
+    <string name="status_engine_active">エンジン稼働中</string>
+    <string name="status_standby">待機中</string>
+</resources>

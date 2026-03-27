@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Smart Translator</string>
+    <string name="mode_ja_to_zh">Mode: JA ➔ ZH (TW)</string>
+    <string name="mode_zh_to_ja">Mode: ZH (TW) ➔ JA</string>
+    <string name="connecting_to_engine">Connecting to Engine...</string>
+    <string name="user_stopped">User stopped</string>
+    <string name="language_japanese">Japanese</string>
+    <string name="language_chinese_tw">Traditional Chinese (Taiwan)</string>
+    <string name="listening"></string>
+    <string name="engine_error">Engine Error.</string>
+    <string name="app_title">Smart Translator</string>
+    <string name="content_description_mic">Mic</string>
+    <string name="content_description_speaker">Speaker</string>
+    <string name="stop_session">STOP SESSION</string>
+    <string name="start_interpreting">START INTERPRETING</string>
+    <string name="content_description_swap">Swap</string>
+    <string name="language_chinese">Traditional Chinese</string>
+    <string name="status_system_speaking">SYSTEM SPEAKING</string>
+    <string name="status_engine_active">ENGINE ACTIVE</string>
+    <string name="status_standby">STANDBY</string>
+</resources>
